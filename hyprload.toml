@@ -1,0 +1,10 @@
+[hykeys]
+author = "Euro20179"
+version = "0.1"
+description = "Sends key presses to the hyprland ipc socket to allow per keyboard key bindings"
+
+[hykeys.build]
+output = "hykeys.so"
+steps = [
+    "make all"
+]
