@@ -6,8 +6,11 @@ This will allow for per keyboard bindings
 
 # Building
 
-follow instructions [here](https://wiki.hyprland.org/hyprland-wiki/pages/Plugins/Using-Plugins/)
+Should work on versions above v0.33.0
 
+```bash
+hyprpm add https://github.com/Euro20179/HyKeys
+```
 
 ## Output format
 
